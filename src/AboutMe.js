@@ -8,7 +8,7 @@ const AboutMe = () => {
       <div className="about-me-card">
         <p>
           Hello! My name is Ased Karim, and I am currently pursuing a degree in
-          Computer Science with a focus on business applications at the
+          Computer Science with a focus on Business Applications at the
           University of California, Riverside. I have a strong passion for
           software development and a keen interest in leveraging technology to
           solve real-world problems.
