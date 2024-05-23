@@ -1,0 +1,34 @@
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #aaa28b;
+    padding: 10px 20px; /* Add some padding for a better look */
+    position: fixed; /* Make the navbar fixed */
+    top: 20px; /* Position it slightly below the top */
+    left: 50%; /* Center it horizontally */
+    transform: translateX(-50%); /* Center it */
+    width: auto; /* Set width to auto to fit content */
+    border-radius: 25px; /* Add rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    z-index: 1000; /* Ensure it stays on top of other content */
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px; /* Add padding for better click targets */
+    border-radius: 10px; /* Round the links slightly */
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+    background-color: rgba(255, 255, 255, 0.2); /* Add hover effect */
+  }
+  

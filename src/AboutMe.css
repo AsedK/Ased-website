@@ -1,0 +1,45 @@
+.about-me {
+    padding: 50px;
+    background: #f4f4f9;
+    color: #333;
+    text-align: center;
+  }
+  
+  .about-me h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  .about-me-card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    position: relative;
+    transition: transform 0.2s;
+    margin: 0 auto;
+    max-width: 800px; /* Adjust as needed for the width of the content */
+  }
+  
+  .about-me-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .about-me-card p {
+    margin-top: 10px;
+    line-height: 1.6;
+  }
+  
+  @media (max-width: 768px) {
+    .about-me {
+      padding: 20px;
+    }
+  
+    .about-me-card {
+      padding: 15px;
+    }
+  }
+  

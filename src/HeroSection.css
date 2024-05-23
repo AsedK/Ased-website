@@ -1,0 +1,61 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 50px;
+    background: #689daa;
+    color: white;
+  }
+  
+  .profile-pic-container {
+    margin-top: 70px; /* Adjust this value to lower the photo */
+  }
+  
+  .profile-pic {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .hero-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .hero-button {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    color: #333;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .hero-button:hover {
+    background-color: #1e90ff;
+    color: white;
+  }
+  
+  .button-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  

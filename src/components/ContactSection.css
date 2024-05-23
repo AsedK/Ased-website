@@ -1,0 +1,35 @@
+.contact {
+    padding: 50px;
+    background: #f4f4f9;
+    color: #333;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  .contact p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .contact-button {
+    display: inline-block;
+    background-color: #0073e6;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .contact-button:hover {
+    background-color: #005bb5;
+    transform: translateY(-5px);
+  }
+  
