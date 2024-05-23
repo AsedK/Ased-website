@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Ased-website/static/css/main.79edaa68.css",
-    "main.js": "/Ased-website/static/js/main.1448fd47.js",
+    "main.js": "/Ased-website/static/js/main.6697eb98.js",
     "static/media/ased.JPG": "/Ased-website/static/media/ased.a5cd466f5fa9fcc2441f.JPG",
     "static/media/Ased_karim_Resume.pdf": "/Ased-website/static/media/Ased_karim_Resume.963c0cd3c9dec9094104.pdf",
     "static/media/SM.png": "/Ased-website/static/media/SM.a47883e853196eb5ef15.png",
     "index.html": "/Ased-website/index.html",
     "main.79edaa68.css.map": "/Ased-website/static/css/main.79edaa68.css.map",
-    "main.1448fd47.js.map": "/Ased-website/static/js/main.1448fd47.js.map"
+    "main.6697eb98.js.map": "/Ased-website/static/js/main.6697eb98.js.map"
   },
   "entrypoints": [
     "static/css/main.79edaa68.css",
-    "static/js/main.1448fd47.js"
+    "static/js/main.6697eb98.js"
   ]
 }
