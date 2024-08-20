@@ -49,7 +49,6 @@ const ExperienceSection = () => {
     >
       <h2>My Experience</h2>
       <div className="experience-cards">
-        {/* New Genbai.ai Experience */}
         <div className="experience-card">
           <div className="card-header">
             <img
