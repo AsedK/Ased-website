@@ -7,11 +7,10 @@ const AboutMe = () => {
       <h2>About Me</h2>
       <div className="about-me-card">
         <p>
-          Hello! My name is Ased Karim, and I am currently pursuing a degree in
-          Computer Science with a focus on Business Applications at the
-          University of California, Riverside. I have a strong passion for
-          software development and a keen interest in leveraging technology to
-          solve real-world problems.
+          Hello! I’m Ased Karim, a recent graduate in Computer Science with a
+          focus on Business Applications from the University of California,
+          Riverside. I have a strong passion for software development and a keen
+          interest in leveraging technology to solve real-world problems.
         </p>
 
         <p>
